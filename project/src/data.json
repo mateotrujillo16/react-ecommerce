@@ -1,0 +1,189 @@
+{
+  "products" : [
+    {
+      "image": "https://images.vat19.com/covers/large/giant-pocky.jpg",
+      "name": "Giant Pocky Chocolate",
+      "price" : 14.99,
+      "tag": "snacks",
+      "description": " Pocky is a sweet biscuit covered in milk chocolate. This version of Pocky has been super-sized for better snackabillity.",
+      "id" : 1
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0768/4331/products/Furuta-One-Piece-Soft-Cookie-Chocolate-800x72_cdfe562b-a3c6-40ee-b33c-79ba7d86e9b8_1024x1024.jpg?v=1571785248",
+      "name": "One Piece Cookies",
+      "description": "Moist cookies filled with chocolate chips. This pack features characters from the famous anime One Piece.",
+      "price" : 2.99,
+      "tag": "snacks",
+      "id" : 2
+    },
+    {
+      "image": "https://munchpak.com/media/catalog/product/cache/image/700x700/e9c3970ab036de70892d86c6d221abfe/c/a/calbee-shrimp-chips.jpg",
+      "name": "Calbee Shrimp Chips",
+      "description": "Baked chips made out of wheat with a delicious flavor of freshly cooked shrimp",
+      "price" : 1.99,
+      "tag": "snacks",
+      "id" : 3
+    },
+    {
+      "image": "https://i5.walmartimages.com/asr/d704611d-de30-4475-a600-5693bfb7d63c_1.ff52a16f9249626f1ab782ee2003e791.jpeg?odnWidth=612&odnHeight=612&odnBg=ffffff",
+      "name": "Giant Pocky Cookies and Cream",
+      "description": "Pocky is a sweet biscuit covered in cookies and cream coating. This version of Pocky has been super-sized for better snackabillity.",
+      "price" : 14.99,
+      "tag": "snacks",
+      "id" : 4
+    },
+    {
+      "image": "https://cdn1.npcdn.net/images/151973831296739c42bc860d6bef1444ee82599529.jpg?md5id=2e15c92cadb8f2b006c03d7a189231be&new_width=600&new_height=600&w=1511923150",
+      "name": "Nobel Super Soda Candy",
+      "description": "This candy has the best soda flavor. These hard candies have a sour coating on the outside and are fizzy and sweet in the inside. Like a ramune soda.",
+      "price" : 3.79,
+      "tag": "snacks",
+      "id" : 5
+    },
+    {
+      "image": "https://www.candysan.com/999-home_default/pucho-gumi-soda-melon.jpg",
+      "name": "Puccho Gummy Candy- Cola & Lemon",
+      "description": "The gummy candy is soft candy with a mix of red grape soda and yogurt flavors in a pack.",
+      "price" : 2.75,
+      "tag": "snacks",
+      "id" : 6
+    },
+    {
+      "image": "https://www.takaski.com/wp-content/uploads/2020/02/KIT-KAT-Sakura-Japanese-Sake-Made-in-Japan1a.jpg",
+      "name": "Kit Kat Japanese Sake Flavor",
+      "description": "The elegant taste od sake is mixed with the sweetness of chocolate. Alcohol content is 0.8% (Not for minors)",
+      "price" : 11.99,
+      "tag": "snacks",
+      "id" : 7
+    },
+    {
+      "image": "https://i5.walmartimages.com/asr/5bf64c97-9e52-487e-8073-677b1e72ec81_1.691d8d0cd2e6e531dd1b97d4a60be0ce.jpeg?odnWidth=612&odnHeight=612&odnBg=ffffff",
+      "name": "Ramune Soda",
+      "description": "Popular japanese soda that is fizzy and refreshing. Comes in a wide variety of flavors in 6oz bottles.",
+      "price" : 24.99,
+      "tag": "snacks",
+      "id" : 8
+    },
+    {
+      "image": "https://i.ebayimg.com/images/g/0QYAAOSwJxpfMb~T/s-l640.jpg",
+      "name": "Hi-Chew Assorted Pack",
+      "description": "Hi-Chew is an icon candy in Japan. Each piece is like chewing gum but can be swallowed. Comes in over 170 flavors.",
+      "price" : 8.99,
+      "tag": "snacks",
+      "id" : 9
+    },
+    {
+      "image": "https://www.candysan.com/3694-full_default/chip-star-azumino-wasabi.jpg",
+      "name": "Azumino Wasabi Chips",
+      "description": "These stacked potato chips are generously coated with azumino wasabi powder from Azumino City, which is know for its wasabi.",
+      "price" : 4.59,
+      "tag": "snacks",
+      "id" : 10
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0248/2375/8901/products/chtoshotandsweet_447x.progressive.jpg?v=1588805388",
+      "name": "Cheetos Hot & Sweet",
+      "description": "The hot and flaming flavor you love now with a cheesy sweetness.",
+      "price" : 2.99,
+      "tag": "snacks",
+      "id" : 11
+    },
+    {
+      "image": "https://cdn.yamibuy.net/item/b2257590293642a5627042efbd9ef582_625x625.webp",
+      "name": "Mochi Mango Flavor",
+      "description": "The tangy and sweet taste of premium mangos combined with the softness of the rice cake.",
+      "price" : 8.99,
+      "tag": "snacks",
+      "id" : 12
+    },
+    {
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51X5H05S2JL._SX366_BO1,204,203,200_.jpg",
+      "name": "Cowboy Bebop",
+      "description": "The extravegant bounty hunters are back and on the hunt for new targets. Cowboy bebop blends jazz music with over the top science fiction.",
+      "price" : 274.99,
+      "tag": "manga",
+      "id" : 13
+    },
+    {
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51HA8hP34sL._SX368_BO1,204,203,200_.jpg",
+      "name": "Attack on Titan Season 1",
+      "description": "In this fiction tale the world has been devastated by beasts called Titans. They have beem roaming the world killing humankind for hundreds of years.",
+      "price" : 35.99,
+      "tag": "manga",
+      "id" : 14
+    },
+    {
+      "image": "https://i.ebayimg.com/00/s/MTYwMFgxMTA5/z/ONUAAOSwjytdUsum/$_57.JPG?set_id=8800005007",
+      "name": "Tokyo Ghoul Vols. 1-14",
+      "description": "This follows the story of Ken Kaneki, a simingly ordinary college students, until an encounter with an unexpected individual causes him to be the first half-human, half-ghoul hybrid.",
+      "price" : 108.75,
+      "tag": "manga",
+      "id" : 15
+    },
+    {
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51WlucbJFlL._SX438_BO1,204,203,200_.jpg",
+      "name": "My Hero Academia Vols. 1-15",
+      "description": "What would the world would look like if 80% of the population acquired superpowers? Follow the story of young Izuku Midoriya and his struggel of becoming a hero without superpowers.",
+      "price" : 114.99,
+      "tag": "manga",
+      "id" : 16
+    },
+    {
+      "image": "https://i.ebayimg.com/images/g/iEEAAOSwt4xfTx8B/s-l640.jpg",
+      "name": "One Piece Vols. 1-23",
+      "description": "Follow the story of Monkey D. Luffy is in search of the greates pirate treasure there is, the one piece, but he'll have to face enemies beyond his imagination while making new friends on his journey.",
+      "price" : 154.99,
+      "tag": "manga",
+      "id" : 17
+    },
+    {
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51z9h3MO+AL._SX331_BO1,204,203,200_.jpg",
+      "name": "Bleach vols. 22-48",
+      "description": "Ichigo Kurosaki never asked for the ability to see ghosts—he was born with the gift. Dedicating  his life to protecting the innocent and helping the tortured spirits themselves find peace.",
+      "price" : 149.99,
+      "tag": "manga",
+      "id" : 18
+    },
+    {
+      "image": "https://images-na.ssl-images-amazon.com/images/I/514ByuCVj8L._SX290_BO1,204,203,200_.jpg",
+      "name": "Naruto Shippuden Vols. 49-72",
+      "description": "Naruto is a ninja-in-training with a need for attention, a knack for mischief and, sealed within him, a strange, formidable power.",
+      "price" : 114.99,
+      "tag": "manga",
+      "id" : 19
+    },
+    {
+      "image": "https://images-na.ssl-images-amazon.com/images/I/710fiuckQDL._AC_SY450_.jpg",
+      "name": "Dragon Ball Z Colletictable",
+      "description": "",
+      "price" : 130.99,
+      "tag": "figure",
+      "id" : 20
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0243/3885/8018/products/Kamado_Tanjirou_Kamado_Nezuko_Figure_Demon_Slayer_Kimetsu_no_Yaiba_Playset_Toys_Models_1200x1200.jpg?v=1573180072",
+      "name": "Demon Slayer Figure",
+      "description": "",
+      "price" : 35.99,
+      "tag": "figure",
+      "id" : 21
+    },
+    {
+      "image": "https://ae01.alicdn.com/kf/He9a9237cb88340b296ba0c64f8b60365t/New-GK-Naruto-Shippuden-Crows-Uchiha-Itachi-Action-Figure-Anime-PVC-Big-Model-Toy-Boys-Gift.jpg",
+      "name": "Naruto Shipudden - Itachi Uchiha Collectible Figure",
+      "description": "",
+      "price" : 44.99,
+      "tag": "figure",
+      "id" : 22
+    },
+    {
+      "image": "https://images-na.ssl-images-amazon.com/images/I/710fiuckQDL._AC_SY450_.jpg",
+      "name": "Gundam Wing Epyon",
+      "description": "",
+      "price" : 14.99,
+      "tag": "figure",
+      "id" : 23
+    }
+
+  ]
+}

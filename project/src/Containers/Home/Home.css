@@ -1,0 +1,58 @@
+
+.Hero {
+  position: relative;
+  height: 100vh;
+  width: 100vw;
+  background-image: linear-gradient(to right, #5a5858c5, rgba(161, 154, 144, 0.185)), url("https://wallpaperaccess.com/full/344649.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.product-container {
+  padding: 3em;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 2em;
+  font-family: 'Didact Gothic', sans-serif;
+  text-align: center;
+}
+
+
+
+.products {
+  padding: 2em;
+  /* display: grid; */
+  /* grid-template-columns: repeat(4, 1fr); */
+  /* grid-template-rows: repeat(4 1fr); */
+  border-radius: .3em;
+  box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+.products img {
+  /* display: block; */
+  /* width: 75%; */
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  align-items: center;
+
+}
+
+.items {
+  text-align: center;
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.buy{
+  margin-top: 15px;
+  font-size: 20px;
+  border-radius: 3px;
+}
+
+.buy:hover {
+  background-color: #D41159;
+  color: white;
+  cursor: pointer;
+}
