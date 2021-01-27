@@ -1,0 +1,20 @@
+.Container {
+    margin-top: 10%;
+}
+
+.PageTitle {
+    text-align: center;
+    /* margin-top: 50px; */
+    border-radius: 2em;
+    font-family: 'Didact Gothic', sans-serif;
+    font-size: 50px;
+    font-weight: 600;
+    color: #D41159;
+}
+
+.FilterContainer {
+    margin-left: 45%;
+    justify-content: center;
+    display: flex;
+    margin-bottom: 2%;
+}

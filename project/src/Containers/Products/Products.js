@@ -5,6 +5,7 @@ import data from '../../data.json'
 import classes from './Products.module.css'
 import Filter from '../../Components/Filter/Filter'
 import Footer from '../../Components/Footer/Footer'
+import Navigation from '../../Components/Navigation/Navigation'
 
 
 class Products extends Component {
@@ -41,9 +42,17 @@ class Products extends Component {
   render() {
     return (
       <div>
-        <Filter className={classes.Filter} filter={this.filterHandler} />
+        {/* <div></div> */}
         {/* <Filter className={classes.Filter} filter={this.filterHandler} /> */}
-        <Items filter={this.state.filter} Data={this.state.products} />
+        <Navigation />
+        <div className={classes.Container}>
+          <div className={classes.PageTitle}>Products</div>
+          <div className={classes.FilterContainer}>
+            <Filter className={classes.FilterCon} filter={this.filterHandler} />
+          </div>
+          <hr></hr>
+          <Items filter={this.state.filter} Data={this.state.products} />
+        </div>
         <Footer />
 
       </div>

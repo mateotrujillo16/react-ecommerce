@@ -26,8 +26,8 @@
     },
     {
       "image": "https://i5.walmartimages.com/asr/d704611d-de30-4475-a600-5693bfb7d63c_1.ff52a16f9249626f1ab782ee2003e791.jpeg?odnWidth=612&odnHeight=612&odnBg=ffffff",
-      "name": "Giant Pocky Cookies and Cream",
-      "description": "Pocky is a sweet biscuit covered in cookies and cream coating. This version of Pocky has been super-sized for better snackabillity.",
+      "name": "Pocky - Cookies and Cream",
+      "description": "Pocky is a sweet biscuit covered in cookies and cream. This version of Pocky has been super-sized for better snackabillity.",
       "price" : 14.99,
       "tag": "snacks",
       "id" : 4
@@ -113,7 +113,7 @@
       "id" : 14
     },
     {
-      "image": "https://i.ebayimg.com/00/s/MTYwMFgxMTA5/z/ONUAAOSwjytdUsum/$_57.JPG?set_id=8800005007",
+      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540774432l/42516196._SX318_.jpg",
       "name": "Tokyo Ghoul Vols. 1-14",
       "description": "This follows the story of Ken Kaneki, a simingly ordinary college students, until an encounter with an unexpected individual causes him to be the first half-human, half-ghoul hybrid.",
       "price" : 108.75,
@@ -129,7 +129,7 @@
       "id" : 16
     },
     {
-      "image": "https://i.ebayimg.com/images/g/iEEAAOSwt4xfTx8B/s-l640.jpg",
+      "image": "https://cdn.archonia.com/images/1-24878603-1-1-original1/one-piece-vol-58-gn.jpg",
       "name": "One Piece Vols. 1-23",
       "description": "Follow the story of Monkey D. Luffy is in search of the greates pirate treasure there is, the one piece, but he'll have to face enemies beyond his imagination while making new friends on his journey.",
       "price" : 154.99,
@@ -145,7 +145,7 @@
       "id" : 18
     },
     {
-      "image": "https://images-na.ssl-images-amazon.com/images/I/514ByuCVj8L._SX290_BO1,204,203,200_.jpg",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81qSQG1+24L.jpg",
       "name": "Naruto Shippuden Vols. 49-72",
       "description": "Naruto is a ninja-in-training with a need for attention, a knack for mischief and, sealed within him, a strange, formidable power.",
       "price" : 114.99,
@@ -153,12 +153,20 @@
       "id" : 19
     },
     {
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81ZNkhqRvVL.jpg",
+      "name": "Demon Slayer Vols. 1-5",
+      "description": "In Taisho-era Japan, Tanjiro Kamado is a kindhearted boy who makes a living selling charcoal. But his peaceful life is shattered when a demon slaughters his entire family.",
+      "price" : 114.99,
+      "tag": "manga",
+      "id" : 20
+    },
+    {
       "image": "https://images-na.ssl-images-amazon.com/images/I/710fiuckQDL._AC_SY450_.jpg",
       "name": "Dragon Ball Z Colletictable",
       "description": "",
       "price" : 130.99,
       "tag": "figure",
-      "id" : 20
+      "id" : 21
     },
     {
       "image": "https://cdn.shopify.com/s/files/1/0243/3885/8018/products/Kamado_Tanjirou_Kamado_Nezuko_Figure_Demon_Slayer_Kimetsu_no_Yaiba_Playset_Toys_Models_1200x1200.jpg?v=1573180072",
@@ -166,7 +174,7 @@
       "description": "",
       "price" : 35.99,
       "tag": "figure",
-      "id" : 21
+      "id" : 22
     },
     {
       "image": "https://ae01.alicdn.com/kf/He9a9237cb88340b296ba0c64f8b60365t/New-GK-Naruto-Shippuden-Crows-Uchiha-Itachi-Action-Figure-Anime-PVC-Big-Model-Toy-Boys-Gift.jpg",
@@ -174,7 +182,7 @@
       "description": "",
       "price" : 44.99,
       "tag": "figure",
-      "id" : 22
+      "id" : 23
     },
     {
       "image": "https://images-na.ssl-images-amazon.com/images/I/710fiuckQDL._AC_SY450_.jpg",
@@ -182,7 +190,7 @@
       "description": "",
       "price" : 14.99,
       "tag": "figure",
-      "id" : 23
+      "id" : 24
     }
 
   ]

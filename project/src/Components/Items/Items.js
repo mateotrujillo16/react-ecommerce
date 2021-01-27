@@ -7,7 +7,7 @@ import ByProduct from '../Filter/ByProducts/Byproduct'
 
 const Items = (props) => {
   let items = props.Data
-  console.log(props.filter)
+  // console.log(props.filter)
   switch (props.filter) {
     case 'lowtohigh':
       LowtoHigh(props)
@@ -27,7 +27,7 @@ const Items = (props) => {
     default:
       break;
   }
-  console.log(`after switch ${items}`)
+  // console.log(`after switch ${items}`)
 
   const allProducts = items.map(item => {
     return (
