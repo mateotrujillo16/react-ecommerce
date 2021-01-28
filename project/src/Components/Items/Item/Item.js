@@ -13,10 +13,11 @@ const Item = (props) => {
           <li className={classes.Name}>{props.Name}</li>
           <li className={classes.Price}>${props.Price}</li>
           <li className={classes.Description}>{props.Description}</li>
-          <div className={classes.ButtonContainer}>
-            <button className={classes.Button}>Add to Cart</button>
-          </div>
+          {/* <div className={classes.ButtonContainer}> */}
+            
+          {/* </div> */}
         </ul>
+        <button className={classes.Button}>Add to Cart</button>
       </div>
 
     </ div >

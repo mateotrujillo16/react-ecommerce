@@ -4,6 +4,7 @@
 
 .PageTitle {
     text-align: center;
+    position: relative;
     /* margin-top: 50px; */
     border-radius: 2em;
     font-family: 'Didact Gothic', sans-serif;
@@ -14,7 +15,8 @@
 
 .FilterContainer {
     margin-left: 45%;
+    position: absolute;
     justify-content: center;
-    display: flex;
+    /* display: flex; */
     margin-bottom: 2%;
 }

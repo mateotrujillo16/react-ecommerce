@@ -17,25 +17,25 @@ const Contact = () => {
             <div className="contact">
               <label>
                 First Name <br />
-                <input type="text" name="firstname" placeholder="First Name" />
+                <input type="text" name="firstname" placeholder="First Name" required />
               </label>
             </div>
             <div className="contact">
               <label>
                 Last Name <br />
-                <input type="text" placeholder="Last Name" />
+                <input type="text" placeholder="Last Name" required />
               </label>
             </div>
             <div className="contact">
               <label>
                 Email <br />
-                <input type="email" placeholder="Email" />
+                <input type="email" placeholder="Email"  required/>
               </label>
             </div>
             <div className="contact">
               <label>
                 Phone Number <br />
-                <input type="text" placeholder="Phone Number" />
+                <input type="text" placeholder="Phone Number" required />
               </label>
             </div>
             <div className="contact">

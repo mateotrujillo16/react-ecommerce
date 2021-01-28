@@ -193,5 +193,32 @@
       "id" : 24
     }
 
+  ],
+
+  "featuredItems" : [
+    {
+      "image": "https://images-na.ssl-images-amazon.com/images/I/710fiuckQDL._AC_SY450_.jpg",
+      "name": "Dragon Ball Z Colletictable",
+      "description": "",
+      "price" : 130.99,
+      "tag": "figure",
+      "id" : 1
+    },
+    {
+      "image": "https://i5.walmartimages.com/asr/d704611d-de30-4475-a600-5693bfb7d63c_1.ff52a16f9249626f1ab782ee2003e791.jpeg?odnWidth=612&odnHeight=612&odnBg=ffffff",
+      "name": "Pocky - Cookies and Cream",
+      "description": "Pocky is a sweet biscuit covered in cookies and cream. This version of Pocky has been super-sized for better snackabillity.",
+      "price" : 14.99,
+      "tag": "snacks",
+      "id" : 2
+    },
+    {
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51HA8hP34sL._SX368_BO1,204,203,200_.jpg",
+      "name": "Attack on Titan Season 1",
+      "description": "In this fiction tale the world has been devastated by beasts called Titans. They have beem roaming the world killing humankind for hundreds of years.",
+      "price" : 35.99,
+      "tag": "manga",
+      "id" : 3
+    }
   ]
 }
