@@ -35,7 +35,7 @@
     {
       "image": "https://cdn1.npcdn.net/images/151973831296739c42bc860d6bef1444ee82599529.jpg?md5id=2e15c92cadb8f2b006c03d7a189231be&new_width=600&new_height=600&w=1511923150",
       "name": "Nobel Super Soda Candy",
-      "description": "This candy has the best soda flavor. These hard candies have a sour coating on the outside and are fizzy and sweet in the inside. Like a ramune soda.",
+      "description": "This candy has the best soda flavor. These hard candies have a sour coating on the outside and are fizzy and sweet in the inside.",
       "price" : 3.79,
       "tag": "snacks",
       "id" : 5
@@ -67,7 +67,7 @@
     {
       "image": "https://i.ebayimg.com/images/g/0QYAAOSwJxpfMb~T/s-l640.jpg",
       "name": "Hi-Chew Assorted Pack",
-      "description": "Hi-Chew is an icon candy in Japan. Each piece is like chewing gum but can be swallowed. Comes in over 170 flavors.",
+      "description": "Hi-Chew is an icon candy in Japan. Each piece is like chewing gum but can be swallowed.",
       "price" : 8.99,
       "tag": "snacks",
       "id" : 9
@@ -75,7 +75,7 @@
     {
       "image": "https://www.candysan.com/3694-full_default/chip-star-azumino-wasabi.jpg",
       "name": "Azumino Wasabi Chips",
-      "description": "These stacked potato chips are generously coated with azumino wasabi powder from Azumino City, which is know for its wasabi.",
+      "description": "These stacked potato chips are generously coated with azumino wasabi powder from Azumino City.",
       "price" : 4.59,
       "tag": "snacks",
       "id" : 10
@@ -161,7 +161,7 @@
       "id" : 20
     },
     {
-      "image": "https://images-na.ssl-images-amazon.com/images/I/710fiuckQDL._AC_SY450_.jpg",
+      "image": "https://canary.contestimg.wish.com/api/webimage/5d66535786e21518b9ea73f7-large.jpg?cache_buster=f9477f0acda9ef7d681ad1ebbcdc5f55",
       "name": "Dragon Ball Z Colletictable",
       "description": "",
       "price" : 130.99,

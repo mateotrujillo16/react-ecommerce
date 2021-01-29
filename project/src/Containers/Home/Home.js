@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import Navigation from '../../Components/Navigation/Navigation'
 import Footer from '../../Components/Footer/Footer'
 import { Link } from 'react-router-dom'
-import classes from './Home.css'
+import './Home.css'
 import Slider from '../Slider/Slider'
 import Database from '../../Components/Database/Database'
 
@@ -11,7 +11,7 @@ class Home extends Component {
     featured: Database.featuredItems,
     current: 0,
     currentItem: Database.featuredItems[0]
-    }
+  }
   //creating arrows for 
   forwardHandler = () => {
     if (this.state.current <= 1) {
@@ -23,8 +23,8 @@ class Home extends Component {
       let firstItem = this.state.featured[0]
       this.setState({ current: first, currentItem: firstItem })
     }
-   }
-  
+  }
+
   backHandler = () => {
     if (this.state.current >= 1) {
       let next = this.state.current - 1
@@ -45,26 +45,29 @@ class Home extends Component {
         <Navigation />
         <header className="header-container">
           <div className="Hero">
-            <p></p>
+            <div className="heroText">
+              <p>"A Little step into Japan"</p>
+              <Link to="/products">
+                <button type="button" className="btn">
+                  Order Now
+              </button>
+              </Link>
+            </div>
           </div>
         </header>
         {/* <main> */}
-          <div className="items">
-            <Link to="/products">
-              <button type="button" className="btn">
-                Order Now
-              </button>
-            </Link>
+        <div className="items">
+
           <h1>Featured Items</h1>
-          
+
           <Slider
             forward={this.forwardHandler}
             back={this.backHandler}
-            featured = {this.state.currentItem}
-          />        
-            
-            
-          </div>
+            featured={this.state.currentItem}
+          />
+
+
+        </div>
         {/* </main> */}
         <Footer />
       </div>

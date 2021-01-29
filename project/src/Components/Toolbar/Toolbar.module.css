@@ -25,5 +25,8 @@
 }
 
 .Logo {
-    height: 80%;
+    height: 50px;
+    width: auto;
+    vertical-align: middle;
+    margin-top: 5px;
 }
