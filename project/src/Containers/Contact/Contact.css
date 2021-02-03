@@ -1,3 +1,7 @@
+body {
+  height: 100vh;
+}
+
 .FormContainer {
   margin-top: 40px;
   padding: 5%;
@@ -16,7 +20,7 @@
 .contact label {
   display: block;
 }
-
+ 
 .contact input {
   height: 20px;
   width: 25%;

@@ -7,12 +7,17 @@
   box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.3);
   position: relative;
   text-align: center;
+  align-items: center;
+  padding-left: 0;
+  height: 100%;
 }
 
 
 .Content {
+  /* display: flex; */
   list-style: none;
   text-decoration: none;
+  align-items: center;
   
 }
 

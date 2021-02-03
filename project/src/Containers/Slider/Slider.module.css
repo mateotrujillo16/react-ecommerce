@@ -1,12 +1,32 @@
-.Card {
+.CardContainer {
   /* border: 5px solid black; */
-  margin-top: 5em;
+  /* margin-top: 5em; */
   margin-bottom: 5em;
   display: inline-block;
-  box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.3);
+  /* box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.3); */
   position: relative;
   text-align: center;
   font-family: 'Yusei Magic', sans-serif;
+  width: 400px;
+  height: auto;
+  overflow: hidden;
+}
+
+.fas fa-chevron-left, .fas fa-chevron-right{
+  /* font-size: 60px; */
+  position: absolute;
+  cursor: pointer;
+  font-weight: bold;
+  top: 50%;
+  width: auto;
+  margin-top: -50px;
+}
+.fas fa-chevron-right {
+  right: 0;
+}
+
+.fas fa-chevron-left {
+  left: 0;
 }
 
 .Content {

@@ -2,7 +2,7 @@ import React from 'react'
 import classes from './Filter.module.css'
 
 const Filter = (props) => (
-  <div>
+  <div className = {classes.FilterContainer}>
     <label>Filter by: </label>
     <select onChange={e => props.filter(e.target.value)} className={classes.Filter}>
       <option className={classes.filterName} value="normal"></option>

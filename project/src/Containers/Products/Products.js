@@ -46,11 +46,15 @@ class Products extends Component {
         {/* <Filter className={classes.Filter} filter={this.filterHandler} /> */}
         <Navigation />
         <div className={classes.Container}>
-          <div className={classes.PageTitle}>Products</div>
           <div className={classes.FilterContainer}>
             <Filter className={classes.FilterCon} filter={this.filterHandler} />
           </div>
-          <hr></hr>
+          <div className={classes.PageTitle}>
+            Products
+             
+            </div>
+          
+          {/* <hr></hr> */}
           <Items filter={this.state.filter} Data={this.state.products} />
         </div>
         <Footer />
