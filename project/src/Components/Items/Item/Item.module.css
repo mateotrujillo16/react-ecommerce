@@ -15,22 +15,29 @@
 
 .Content {
   /* display: flex; */
+  margin-top: 50%;
+  margin-bottom: 25%;
   list-style: none;
   text-decoration: none;
   align-items: center;
   
 }
 
+ul {
+  padding: 0;
+}
+
 .Image {
-  /* display: inline-block;
-  height: 200px;
-  justify-content: center; */
-  /* width: auto; */
-  /* display: block; */
-  vertical-align: middle;
+  /* display: inline-block; */
+  /* height: 200px; */
+  margin-top: 50%;
+  justify-content: center;
+  width: auto;
+  display: block;
+  /* vertical-align: middle; */
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: 2em;
+  margin-bottom: 25%;
   width: 50%;
 }
 
@@ -67,15 +74,21 @@
   /* align-items: center; */
   /* vertical-align: middle; */
   /* margin: 50%; */
-  margin: 0 35% 0 35%;
+  /* margin: 0 40% 0 40%; */
   /* margin-top: auto; */
-  font-size: 15px;
+  /* text-align: center; */
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  font-size: 13px;
   font-weight: 300;
   cursor: pointer;
   display: flex;
   font-family: 'Yusei Magic', sans-serif;
 
 }
+
+
 
 .Button:hover {
   background-color: #fad2da;
