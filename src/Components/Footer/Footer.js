@@ -14,7 +14,7 @@ const Footer = () => {
               alt="logo"
             />
           </div>
-            Copyright &copy; 2020 by Mateo Trujillo <br />
+            Copyright &copy; 2020 by Sunakku Crate <br />
           <a
             href="https://www.facebook.com/life.in.japan.co.jp/"
             target="_blank"

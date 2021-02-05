@@ -12,9 +12,9 @@
   overflow: hidden;
 }
 
-.fas fa-chevron-left, .fas fa-chevron-right{
+/* .fas fa-chevron-left, .fas fa-chevron-right{ */
   /* font-size: 60px; */
-  position: absolute;
+  /* position: absolute;
   cursor: pointer;
   font-weight: bold;
   top: 50%;
@@ -23,10 +23,32 @@
 }
 .fas fa-chevron-right {
   right: 0;
+} */
+
+.foward{
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-size: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 5em;
+    border-color: black;
+    cursor: pointer;
 }
 
-.fas fa-chevron-left {
-  left: 0;
+.back{
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  font-size: 30px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-radius: 5em;
+  border-color: black;
+  cursor: pointer;
 }
 
 .Content {
@@ -42,6 +64,7 @@
   /* width: auto; */
   /* display: block; */
   vertical-align: middle;
+  margin-top: 2em;
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 2em;

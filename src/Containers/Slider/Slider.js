@@ -3,21 +3,18 @@ import classes from './Slider.module.css'
 
 const Slider = (props) => {
   const source = 'url(' + props.featured.image + ')'
-
-  // let source = props.featured.image
   return (
-
     < div className={classes.CardContainer} >
-      <i onClick = {props.back} className = {classes.back} class='fas fa-chevron-left'>button</i>
-      {/* <button onClick = {props.back} className = {classes.back}>BUTTON BACK</button> */}
-      <div style={{ content: source }} className={classes.Image}></div>
-      <li className={classes.Name}>{props.name}</li>    
+      <button onClick={props.back} className={classes.back} >&#8592;</button>
+      <div className={classes.Card}>
+        <div style={{ content: source }} className={classes.Image}></div>
         <ul className={classes.Content}>
           <li className={classes.Name}>{props.featured.name}</li>
           <li className={classes.Price}>${props.featured.price}</li>
           <li className={classes.Description}>{props.featured.description}</li>
         </ul>
-        <i onClick = {props.forward} className = {classes.forward} class='fas fa-chevron-right'>button</i>
+      </div>
+      <button onClick={props.forward} className={classes.foward} >&#8594;</button>
     </ div >
   )
 }

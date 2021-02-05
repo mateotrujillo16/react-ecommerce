@@ -3,7 +3,7 @@ import classes from './Toggle.module.css';
 
 
 const Toggle = (props) => (
-    <div className={classes.DrawerToggle} onClick = {props.clicked} >
+    <div className={classes.Toggle} onClick = {props.clicked} >
         <div></div>
         <div></div>
         <div></div>
