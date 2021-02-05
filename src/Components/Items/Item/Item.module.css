@@ -79,12 +79,13 @@ ul {
   /* text-align: center; */
   margin-left: auto;
   margin-right: auto;
-  width: 25%;
-  font-size: 13px;
+  width: 22%;
+  font-size: 15px;
   font-weight: 300;
   cursor: pointer;
   display: flex;
   font-family: 'Yusei Magic', sans-serif;
+  text-align: center;
 
 }
 
